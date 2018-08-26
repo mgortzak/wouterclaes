@@ -1,4 +1,4 @@
-package hello;
+package nl.wouterclaes.model;
 
 public class Greeting {
 
